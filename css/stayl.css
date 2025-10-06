@@ -174,7 +174,7 @@ header .content .social-icon a span {
   color: #fff;
   border: 1px solid black;
   height: 50px;
-  width: 180px;
+  width: 11.25rem;
   padding: 12px 0 0 0;
   transition: all 0.5s;
 }
@@ -187,7 +187,7 @@ header .content .social-icon a span {
   color: black;
   border: 1px solid black;
   height: 50px;
-  width: 180px;
+  width: 11.25rem;
   padding: 12px 0 0 0;
   transition: all 0.5s;
 }
